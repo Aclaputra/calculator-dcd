@@ -1,2 +1,2 @@
 # calculator-dcd
-Built Project Calculator app from dicoding belajar javascript basic
+Built Project Calculator app from dicoding JavaScript Basic class
